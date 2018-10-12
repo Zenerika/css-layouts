@@ -16,7 +16,7 @@
 .row-1 {
     display: flex;
     flex-direction: row;
-    height: 10%;
+    height: 60px;
     border-bottom: 10px solid black;
 }
 
@@ -25,19 +25,18 @@
     border-right: 10px solid black;
 }
 
-.row-2 {
-    display: flex;
-    flex-direction: row;
-    height: 90%;
-}
-
 .column-b {
     flex: 1.5;
     border-right: 10px solid black;
 }
 
-#B1, #B2, #B3b, #B4, #B5, #B6 {
-    border-bottom: 8px solid black;
+#B1, #B2, #B4, #B5 {
+    border-bottom: 10px solid black;
+}
+
+#B2, #B5 {
+    display: flex;
+    height: 20%;
 }
 
 #B1, #B4 {
@@ -45,13 +44,130 @@
     height: 10%;
 }
 
+#B1 {
+    background-color: #F9E900;
+}
+
+#B2 {
+    background-color: #F9E900;
+}
+
+#B3 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+}
+
+#B3a, #B3b {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 10px solid black;
+    width: 50%;
+}
+
+#B3a {
+    border-right: 10px solid black;
+}
+
+#B5 {
+    background-color: #007DC1; 
+}
+
+#B6 {
+    background-color: #FF0000; 
+    height: 13.5%;
+    /* Need to come back and fix the height */
+}
+
 .column-c {
     flex: 1.5;
-    background-color: red;
     border-right: 10px solid black;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+#C2, #C4, #C5, #C6 {
+    border-bottom: 10px solid black;
+}
+
+#C2 {
+    /* border-top: 20px solid black; */
+}
+
+#C2, #C5, #C6 {
+    display: flex;
+    height: 20%;
+}
+
+#C2 {
+    background-color: #F9E900;
+}
+
+#C1, #C4 {
+    display: flex;
+    height: 10%;
+}
+
+#C3 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+}
+
+#C3a, #C3b {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 10px solid black;
+    width: 50%;
+}
+
+#C3a {
+    border-right: 10px solid black;
+}
+
+#C5 {
+    background-color: #FF0000;
+}
+
+#C6 {
+    background-color: #007DC1; 
 }
 
 .column-d {
     flex: 2;
-    background-color: blue;
+}
+
+.row-2 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+    border-bottom: 10px solid black;
+}
+
+.row-3 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+    border-bottom: 10px solid black;
+}
+
+.row-4 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+    border-bottom: 10px solid black;
+}
+
+.row-5 {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+    border-bottom: 10px solid black;
+}
+
+.row-6 {
+    display: flex;
+    flex-direction: row;
+    height: 10%;
+    border-bottom: 10px solid black;
 }
