@@ -87,6 +87,8 @@
 #A4b {
     width: 100px;
     border-right: 5px solid black;
+    background-color: black;
+    color: white;
 }
 
 #A4c * {
@@ -104,13 +106,72 @@
     display: flex;
     flex-direction: row;
     height: 115px;
+}
+
+#A5a {
+    width: 69px;
+    border-right: 4px solid black;
+    background-color: #F9E900;
     border-bottom: 5px solid black;
+}
+
+#A5c * {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    width: 105px;
+}
+
+#A5c1 {
+    border-bottom: 5px solid black;
+    background-color: black;
+    color: white;
+}
+
+#A5b {
+    width: 98px;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#A5c2 {
+    display: flex;
+    flex-direction: row;
+    width: 98px;
+    height: 100%;
+}
+
+#A5c2a {
+    border-right: 5px solid black;
+    border-bottom: 5px solid white;
+    background-color: #F9E900;
+}
+
+#A5c2b {
+    border-bottom: 5px solid white;
 }
 
 .row-6 {
     display: flex;
     flex-direction: row;
     height: 57.5px;
+}
+
+#A6a {
+    width: 171px;
+    border-right: 5px solid black;
+    height: 62px;
+}
+
+#A6b {
+    width: 47px;
+    border-right: 5px solid black;
+    background-color: #F9E900;
+    height: 62px;
+}
+
+#A6c {
+    width: 47px;s
 }
 
 .column-b {
@@ -231,4 +292,6 @@
 
 .column-d {
     flex: 2;
+    display: flex;
+    flex-direction: column;
 }
