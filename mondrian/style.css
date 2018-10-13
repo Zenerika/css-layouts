@@ -292,6 +292,167 @@
 
 .column-d {
     flex: 2;
+    background-color: white;
+    border-right: 5px solid black;
+}
+
+.row-1 {
+    display: flex;
+    flex-direction: row;
+    height: 57.5px;
+    border-bottom: 5px solid black;
+}
+
+#D1a {
+    width: 35%;
+    border-right: 5px solid black;
+}
+
+.row-2 {
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+}
+
+#D2a {
+    width: 25%;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#D2b {
+    width: 75%;
+    background-color: #FF0000;
+}
+.row-3 {
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+}
+
+#D3a {
+    width: 25%;
+    border-right: 5px solid black;
+}
+
+#D3b, #D3c {
+    width: 105px;
+    background-color: #FF0000;
+    border-bottom: 5px solid black;
+}
+
+.row-4 {
+    display: flex;
+    flex-direction: row;
+    height: 115px;
+    border-bottom: 5px solid black;
+}
+
+#D4a {
+    width: 25%;
+    border-right: 4px solid black;
+}
+
+#D4a1, #D4a2 {
     display: flex;
     flex-direction: column;
+    height: 50%;
+}
+
+#D4a2 {
+    background-color: #F9E900
+}
+
+#D4a1 {
+    border-bottom: 5px solid black;
+}
+
+#D4b {
+    width: 100px;
+    border-right: 5px solid black;
+    background-color: black;
+    color: white;
+}
+
+#D4c * {
+    display: flex;
+    width: 105px;
+    flex-direction: column;
+    height: 50%;
+}
+
+#D4C1 {
+    border-bottom: 5px solid black;
+}
+
+.row-5 {
+    display: flex;
+    flex-direction: row;
+    height: 115px;
+}
+
+#D5a {
+    width: 69px;
+    border-right: 4px solid black;
+    background-color: #F9E900;
+    border-bottom: 5px solid black;
+}
+
+#D5c * {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    width: 105px;
+}
+
+#D5c1 {
+    border-bottom: 5px solid black;
+    background-color: black;
+    color: white;
+}
+
+#D5b {
+    width: 98px;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#D5c2 {
+    display: flex;
+    flex-direction: row;
+    width: 98px;
+    height: 100%;
+}
+
+#D5c2a {
+    border-right: 5px solid black;
+    border-bottom: 5px solid white;
+    background-color: #F9E900;
+}
+
+#D5c2b {
+    border-bottom: 5px solid white;
+}
+
+.row-6 {
+    display: flex;
+    flex-direction: row;
+    height: 57.5px;
+}
+
+#D6a {
+    width: 171px;
+    border-right: 5px solid black;
+    height: 62px;
+}
+
+#D6b {
+    width: 47px;
+    border-right: 5px solid black;
+    background-color: #F9E900;
+    height: 62px;
+}
+
+#D6c {
+    width: 47px;
 }
