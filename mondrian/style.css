@@ -267,6 +267,11 @@
     width: 50%;
 }
 
+#C1b {
+    background-color: black;
+    color: white;
+}
+
 #C1a {
     border-right: 5px solid black;
 }
@@ -322,7 +327,7 @@
 }
 
 #D2b {
-    width: 75%;
+    width: 210px;
     background-color: #007DC1;
     border-right: 5px solid black;
 }
@@ -349,7 +354,7 @@
 .Drow-4 {
     display: flex;
     flex-direction: row-reverse;
-    height: 115px;
+    height: 120px;
     border-bottom: 5px solid black;
 }
 
@@ -371,6 +376,8 @@
 #D4b {
     width: 100px;
     border-right: 5px solid black;
+    background-color: black;
+    color: white;
 }
 
 #D4c * {
@@ -422,6 +429,8 @@
 
 #D5c2 {
     height: 56px;
+    background-color: black;
+    color: white;
 }
 
 .Drow-6 {
@@ -440,6 +449,8 @@
     width: 46px;
     border-right: 5px solid black;
     height: 57px;
+    background-color: black;
+    color: white;
 }
 
 #D6c {
