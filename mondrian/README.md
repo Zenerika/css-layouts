@@ -3,7 +3,7 @@
 During the early phases of [coding bootcamp](https://www.digitalcrafts.com/), we were asked to recreate the famous 
 Mondrian artwork using only [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). It was just like working on a puzzle, it was super fun! I believe I was 
 the first one to figure out the secret, divs and more divs with pseudo outlines. I also played around with using
-percentages instead of fexed widths and reusing sections by flipping them around (reverse order).
+percentages instead of fixed widths and reusing sections by flipping them around (reverse order).
 
 ![The Aha Moment](https://teenkidsnews.com/wp-content/uploads/2018/10/art.jpg)
 
@@ -21,6 +21,7 @@ Instead of building each section from scratch, I just recylced and flipped the e
 ![Flipping and Reversing](https://github.com/Zenerika/css-layouts/blob/master/mondrian/Mondrian-flipping%20sections.png)
 ___
 Success! I added little debugging markers for my own sanity.
-![Viola!](https://github.com/Zenerika/css-layouts/blob/master/mondrian/Mondrian%20viola.png)
-___
+![Viola!](https://github.com/Zenerika/css-layouts/blob/master/mondrian/Mondrian%20success.png)
+
+[Final Product](https://zenerika.github.io/css-layouts/mondrian/mondrian.html)
 
