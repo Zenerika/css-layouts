@@ -9,12 +9,14 @@ percentages instead of fexed widths and reusing sections by flipping them around
 I created a flowchart to understand the project scope and then I continued creating updated to-do lists while prioritizing my //todos. 
 
 ___
-![TBH Flowchart](https://github.com/Zenerika/react-tbh/blob/master/TBH_Flowchart/TBH_FlowChart_v1_1.png)
+![The Aha Moment](https://github.com/Zenerika/css-layouts/blob/master/mondrian/mondrian%20aha%20moment.png)
 ___
-![To-Do Flowchart](https://github.com/Zenerika/react-tbh/blob/master/TBH_Flowchart/TBH_FlowChart_v1_2.png)
+![Off to a good start](https://github.com/Zenerika/css-layouts/blob/master/mondrian/Mondrian%20in%20progress.png)
 ___
-![Grocery List Flowchart](https://github.com/Zenerika/react-tbh/blob/master/TBH_Flowchart/TBH_FlowChart_v1_3.png)
+![Debugging](https://github.com/Zenerika/css-layouts/blob/master/mondrian/Mondrian%20css%20challenge.png)
 ___
-![Bills Flowchart](https://github.com/Zenerika/react-tbh/blob/master/TBH_Flowchart/TBH_FlowChart_v1_4.png)
+![Flipping and Reversing](https://github.com/Zenerika/css-layouts/blob/master/mondrian/Mondrian-flipping%20sections.png)
+___
+![Viola!](https://github.com/Zenerika/css-layouts/blob/master/mondrian/Mondrian%20viola.png)
 ___
 
